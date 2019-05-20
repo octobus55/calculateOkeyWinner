@@ -1,0 +1,6 @@
+c:\users\maker\documents\visual studio 2017\Projects\digitoyGamesProject\digitoyGamesProject\bin\Debug\digitoyGamesProject.exe.config
+c:\users\maker\documents\visual studio 2017\Projects\digitoyGamesProject\digitoyGamesProject\bin\Debug\digitoyGamesProject.exe
+c:\users\maker\documents\visual studio 2017\Projects\digitoyGamesProject\digitoyGamesProject\bin\Debug\digitoyGamesProject.pdb
+c:\users\maker\documents\visual studio 2017\Projects\digitoyGamesProject\digitoyGamesProject\obj\Debug\digitoyGamesProject.csprojResolveAssemblyReference.cache
+c:\users\maker\documents\visual studio 2017\Projects\digitoyGamesProject\digitoyGamesProject\obj\Debug\digitoyGamesProject.exe
+c:\users\maker\documents\visual studio 2017\Projects\digitoyGamesProject\digitoyGamesProject\obj\Debug\digitoyGamesProject.pdb
